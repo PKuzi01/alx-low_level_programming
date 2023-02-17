@@ -2,7 +2,7 @@
 
 /**
  * main - starting function
- * {} - executed code 
+ * {} - executed code
  * Return: 0 - success
  */
 
