@@ -1,2 +1,5 @@
-Project: 0x01. C - Variables, if ,else, while
-Answers to the 0x01. C-Variables, if, else, while project
+ALX Low Level Programming and Algorithms
+
+A repository contaning answers to projects folow level programming and algorithms.
+
+Table of Contents:
