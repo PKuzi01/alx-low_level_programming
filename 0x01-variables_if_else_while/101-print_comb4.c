@@ -34,5 +34,5 @@ int main(void)
 
 	putchar('\n');
 
-	result(0);
+	result (0);
 }
