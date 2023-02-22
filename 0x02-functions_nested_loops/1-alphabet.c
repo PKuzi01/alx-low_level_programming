@@ -6,7 +6,7 @@
  *
  * can only use _putchar twice
  *
- * Return- void
+ * Return: void
  */
 
 void print_alphabet(void)
