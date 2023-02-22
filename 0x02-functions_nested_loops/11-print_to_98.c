@@ -2,7 +2,11 @@
 #include "main.h"
 
 /**
- * print_to_98: prints all natural numbers from n to 98, followed by a new line
+ * print_to_98 - prints all natural numbers from n to 98,
+ * followed by a new line
+ *
+ * @n: character in ASCII table
+ *
  * Return: 0 - success
 */
 
@@ -21,6 +25,6 @@ void print_to_98(int n)
 			printf("%d, ", n);
 		}
 	}
-	
+
 	printf("%d\n", n);
 }
