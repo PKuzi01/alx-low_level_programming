@@ -5,7 +5,7 @@
  * followed by a new line
  * don't print 2 and 4
  *
- * Result: void
+ * Return: void
  */
 
 void print_most_numbers(void)
