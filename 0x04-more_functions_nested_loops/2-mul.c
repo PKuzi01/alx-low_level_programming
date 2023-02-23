@@ -3,10 +3,10 @@
 /**
  * mul - multiplies two integers
  *
- * @a: var for an integer
- * @b: var for an integer
+ * @a: integer 1
+ * @b: integer 2
  *
- * Return: 0 (success)
+ * Return: a * b
  */
 
 int mul(int a, int b)
