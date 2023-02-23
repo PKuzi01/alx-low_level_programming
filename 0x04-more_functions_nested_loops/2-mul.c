@@ -9,7 +9,7 @@
  * Result: 0 (success)
  */
 
-int mul(int a, int b);
+int mul(int a, int b)
 {
 	int x;
 	x = a * b
