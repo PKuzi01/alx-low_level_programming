@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * rev_string - reverses the string
+ * puts2 - prints every other character of a string,
+ * starting with the first character,
+ * folowed by a new line 
  *
- * @s: pointer
+ * @str: pointer
  *
  * Return: void
  */
