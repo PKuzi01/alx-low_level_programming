@@ -3,7 +3,7 @@
 /**
  * puts2 - prints every other character of a string,
  * starting with the first character,
- * folowed by a new line 
+ * folowed by a new line
  *
  * @str: pointer
  *
