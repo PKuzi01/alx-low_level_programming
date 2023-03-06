@@ -2,7 +2,7 @@
 
 /**
  * _memset - fills memory with a constant byte
- * 
+ *
  * @s: pointer
  * @b: variable
  * @n: variable
