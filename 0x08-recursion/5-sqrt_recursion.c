@@ -1,10 +1,11 @@
-#include "main.h" 
+#include "main.h"
 
 /**
- * _sqrt_natural - returns the natural square 
+ * _sqrt_natural - returns the natural square
  * root of a number
  *
  * @n: variable
+ * @x: variable
  *
  * Return: 0 - success
  */
@@ -37,7 +38,7 @@ int _sqrt_natural(int n, int x)
  * root of a number
  *
  * @n: variable
- * 
+ *
  * Return: 0 - success
  */
 
