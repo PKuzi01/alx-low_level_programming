@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _sqrt_natural - returns the natural square
+ * _sqrt_nat - returns the natural square
  * root of a number
  *
  * @n: variable
@@ -10,7 +10,7 @@
  * Return: 0 - success
  */
 
-int _sqrt_natural(int n, int x)
+int _sqrt_nat(int n, int x)
 {
 	if (n < 0)
 		return (-1);
