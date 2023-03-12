@@ -7,8 +7,8 @@
  *
  * @num: variable
  * @mod: array variable
- * @size: array variable 
- * 
+ * @size: array variable
+ *
  * Return: min. number of coins
  */
 
