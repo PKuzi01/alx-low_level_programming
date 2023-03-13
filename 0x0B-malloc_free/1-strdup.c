@@ -13,10 +13,10 @@ unsigned int _strlen(char *s)
 {
 	unsigned int x;
 
-	for (c = 0; s[c]; c++)
+	for (x = 0; s[x]; x++)
 		;
 
-	return (c);
+	return (x);
 }
 
 /**
